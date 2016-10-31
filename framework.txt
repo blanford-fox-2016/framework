@@ -24,11 +24,13 @@ AngularJS 2 dibuat dari pembuatan ulang AngularJS 1. Fokus pada AngularJS 2 adal
 Nama framework : React
 
 Definisi :
+ReactJS adalah UI library yang dikembangkan oleh facebook yang menjadi fasilitas interaktif dan penggunaan component UI yan reusable dan dapat di render di client dan server side menggunakan virtual DOM.
 
 Sejarah :
+ReactJS dibuat oleh tim facebook pada tahapan production pada maret 2013,
 
 Alasan framework ini dibuat :
-
+ReactJS diekmbangkan untuk pembuatan client side di facebook dan instagram
 
 =====================================
 Nama framework : Aurelia
