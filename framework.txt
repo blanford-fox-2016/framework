@@ -1,0 +1,103 @@
+Nama framework : Angular 1
+
+Definisi :
+AngularJS adalah framework open source berbasis javascript terstruktur dengan konsep MVC untuk front-end pada web app yang bersifat dinamis dimana menggunakan sintaks HTML dengan jelas dan ringkas. Dua arah data binding dan dependencies pada AngularJS dapat memperingkas penulisan code dan seluruh proses terjadi pada browser sehingga dapat menjadi framework yang dapat dipadukan pada beragam teknologi di server side.
+
+Sejarah :
+AngularJS 1 pertama kali dikemabangkan oleh Misko Hevery & Adam Abrons pada tahun 2009.
+
+Alasan framework ini dibuat :
+AngularJS merupakan project dari Google namun sekarang sudah merupakan project open source, tujuannya untuk merubah static HTML menjadi dynamic HTML yang memiliki kemampuan untuk dapat menambah kemampuan attributes dan component dari HTML dan menyediakan custom attributes menggunakan javascript dan dapat dengan cepat digunakan untuk tahap development.
+
+=====================================
+Nama framework : Angular 2
+
+Definisi :
+
+Sejarah :
+AngularJS 2 pertama kali diumumkan pada ng-Europe conference 22-23 September 2014 dan berada pada versi Beta di Desember 2015.
+
+Alasan framework ini dibuat :
+AngularJS 2 dibuat dari pembuatan ulang AngularJS 1. Fokus pada AngularJS 2 adalah di bagian mobile oriented architecture. Di AngularJS 2 tidak ada controller dan tidak ada directives namun menggunakan selector.
+
+=====================================
+Nama framework : React
+
+Definisi :
+
+Sejarah :
+
+Alasan framework ini dibuat :
+
+
+=====================================
+Nama framework : Aurelia
+
+Definisi :
+
+Sejarah :
+
+Alasan framework ini dibuat :
+
+
+=====================================
+Nama framework : Durandal
+
+Definisi :
+
+Sejarah :
+
+Alasan framework ini dibuat :
+
+
+=====================================
+Nama framework : Backbone
+
+Definisi :
+
+Sejarah :
+
+Alasan framework ini dibuat :
+
+
+=====================================
+Nama framework : Ember
+
+Definisi :
+
+Sejarah :
+
+Alasan framework ini dibuat :
+
+
+=====================================
+Nama framework : Vue
+
+Definisi :
+
+Sejarah :
+
+Alasan framework ini dibuat :
+
+
+=====================================
+Nama framework : Elm
+
+Definisi :
+
+Sejarah :
+
+Alasan framework ini dibuat :
+
+
+=====================================
+Nama framework : Meteor
+
+Definisi :
+
+Sejarah :
+
+Alasan framework ini dibuat :
+
+
+=====================================
